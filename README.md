@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Taiko
+  ## Taiko
 </h1>
 
 <p align="center">
